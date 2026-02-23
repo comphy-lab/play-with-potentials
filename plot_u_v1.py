@@ -88,6 +88,7 @@ def main():
 
     plt.tight_layout()
     plt.savefig('u_of_r.pdf', bbox_inches='tight', dpi=300)
+    plt.savefig('u_of_r.png', bbox_inches='tight', dpi=300)
     plt.close(fig)
 
 
