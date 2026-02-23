@@ -6,6 +6,10 @@ Python scripts for exploring and visualizing effective interaction potentials an
 
 This repository contains lightweight analysis scripts that compute attractive/repulsive potential terms and generate publication-style plots of \(U(r)\). It is intended for quick exploratory studies and figure generation.
 
+## Preview
+
+![Potential comparison plot](u_of_r.png)
+
 ## Features
 
 - Multiple script variants for potential analysis (`plot_u_v0.py`, `plot_u_v1.py`, `plot_u.py`).
